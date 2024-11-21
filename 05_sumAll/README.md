@@ -15,3 +15,11 @@ Think about how you would do this on pen and paper and then how you might transl
 - loop through the given numbers ([link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration))
 - on each iteration add the number to the sum
 - return the sum after finishing the loop
+
+## FUNCTION sumAll accepts TWO parameters (num1, num2)
+## CHECK if inputs are positive integers
+## DETERMINE which number is larger/smaller
+## CREATE sum variable starting at 0
+## LOOP from smaller number TO larger number (inclusive)
+## ADD current number to sum
+## RETURN final sum
